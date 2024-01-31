@@ -24,7 +24,7 @@
       - [**Task 16 Is perfect**](#task-16-is-perfect)
       - [**Task 17 Sibling**](#task-17-sibling)
       - [**Task 18 Uncle**](#task-18-uncle)
-- [**Resources: Read or watch**](#resources:-read-or-watch)
+- [**Resources: Read or watch**](#resources-read-or-watch)
 
 
 
@@ -279,12 +279,13 @@ If node is NULL, return NULL
 If node has no uncle, return NULL
 ~~~
 
-## [**Resources: Read or watch**] <a name="resources:-read-or-watch"></a>
-[Binary tree](https://intranet.alxswe.com/rltoken/1F2x42-8vUbOmU4L1C1KMg)
-[Data Structure and Algorithms - Tree](https://intranet.alxswe.com/rltoken/QmcTMCkQyrgMjrqoWxYdhw)
-[Tree Traversal](https://intranet.alxswe.com/rltoken/z6ZaXr_RxwE5nTHAUx_dfQ)
-[Binary Search Tree](https://intranet.alxswe.com/rltoken/qO5dBlMnYJzbaWG3xVpcnQ)
-[Data structures: Binary Tree](https://intranet.alxswe.com/rltoken/BeyJ2gjlE7_djwRiDyeHig)
+## [**Resources: Read or watch**] <a name="resources-read-or-watch"></a>
+
+- [Binary tree](https://intranet.alxswe.com/rltoken/1F2x42-8vUbOmU4L1C1KMg)
+- [Data Structure and Algorithms Tree](https://intranet.alxswe.com/rltoken/QmcTMCkQyrgMjrqoWxYdhw)
+- [Tree Traversal](https://intranet.alxswe.com/rltoken/z6ZaXr_RxwE5nTHAUx_dfQ)
+- [Binary Search Tree](https://intranet.alxswe.com/rltoken/qO5dBlMnYJzbaWG3xVpcnQ)
+- [Data structures: Binary Tree](https://intranet.alxswe.com/rltoken/BeyJ2gjlE7_djwRiDyeHig)
 
 
 
